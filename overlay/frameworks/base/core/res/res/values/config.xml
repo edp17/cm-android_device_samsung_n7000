@@ -204,4 +204,10 @@
     -->
     <integer name="config_longPressOnHomeBehavior">3</integer>
 
+    <!-- Enable button brightness -->
+    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
+
+    <!-- Enable LED settings -->
+    <bool name="config_intrusiveNotificationLed">true</bool>
+
 </resources>
